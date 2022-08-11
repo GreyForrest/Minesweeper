@@ -20,6 +20,7 @@ public final class Board {
         this.board_width = board_width;
         board = new Field[board_height][board_width];
         numberOfMines = board_height*board_width/4;
+        System.out.println("In diesem Spiel gibt es " + numberOfMines + " Bombe(n).");
         createBoard();
     }
 
