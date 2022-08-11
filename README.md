@@ -12,4 +12,4 @@ It's definitely not the best answer for a Minesweeper Java application, and I al
 
 ## How to “install” my Minesweeper
 
-As it is a console application you will have to download the code (repository code Download Zip-File), unzip it and open it in an IDE suited for Java, I programmed the game in IntelliJ by Jetbrains, which I find is a great IDE. You might have to set up an JDK next, I used JDK 17. Then you will have to build the project and start the “Starter” class. The console should automatically pop up and you can play the game.
+As it is a console application you will have to download the code (repository -> code -> Download Zip-File), unzip it and open it in an IDE suited for Java, I programmed the game in IntelliJ by Jetbrains, which I find is a great IDE. You might have to set up an JDK next, I used JDK 17. Then you will have to build the project and start the “Starter” class. The console should automatically pop up and you can play the game.
